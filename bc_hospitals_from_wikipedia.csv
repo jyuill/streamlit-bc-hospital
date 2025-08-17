@@ -1,0 +1,86 @@
+Health Authority,Facility Name,Location City,Latitude,Longitude,Beds,Beds Raw,Beds Source URL,Hospital Page URL
+Fraser Health,Abbotsford Regional Hospital and Cancer Centre,Abbotsford,49.03917,-122.31083,300.0,300,https://en.wikipedia.org/wiki/Abbotsford_Regional_Hospital_and_Cancer_Centre,https://en.wikipedia.org/wiki/Abbotsford_Regional_Hospital_and_Cancer_Centre
+Fraser Health,Burnaby General Hospital,Burnaby,49.24944,-123.015,297.0,297,https://en.wikipedia.org/wiki/Burnaby_General_Hospital,https://en.wikipedia.org/wiki/Burnaby_General_Hospital
+Fraser Health,Chilliwack General Hospital,Chilliwack,49.16639,-121.96278,169.0,169,https://en.wikipedia.org/wiki/Chilliwack_General_Hospital,https://en.wikipedia.org/wiki/Chilliwack_General_Hospital
+Fraser Health,Delta Hospital,Delta,49.08556,-123.06111,64.0,64 [ 1 ],https://en.wikipedia.org/wiki/Delta_Hospital,https://en.wikipedia.org/wiki/Delta_Hospital
+Fraser Health,Eagle Ridge Hospital,Port Moody,49.285,-122.82333,106.0,106,https://en.wikipedia.org/wiki/Eagle_Ridge_Hospital,https://en.wikipedia.org/wiki/Eagle_Ridge_Hospital
+Fraser Health,Fraser Canyon Hospital,Hope,49.37611,-121.42333,10.0,10,https://en.wikipedia.org/wiki/Fraser_Canyon_Hospital,https://en.wikipedia.org/wiki/Fraser_Canyon_Hospital
+Fraser Health,Jim Pattison Outpatient Care and Surgery Centre,Surrey,49.17944,-122.83306,,,,https://en.wikipedia.org/w/index.php?title=Jim_Pattison_Outpatient_Care_and_Surgery_Centre&action=edit&redlink=1
+Fraser Health,Langley Memorial Hospital,Langley,49.09361,-122.61194,188.0,188,https://en.wikipedia.org/wiki/Langley_Memorial_Hospital,https://en.wikipedia.org/wiki/Langley_Memorial_Hospital
+Fraser Health,Mission Memorial Hospital,Mission,49.135,-122.33083,,,,https://en.wikipedia.org/w/index.php?title=Mission_Memorial_Hospital&action=edit&redlink=1
+Fraser Health,Peace Arch Hospital,White Rock,49.02972,-122.79222,146.0,146,https://en.wikipedia.org/wiki/Peace_Arch_Hospital,https://en.wikipedia.org/wiki/Peace_Arch_Hospital
+Fraser Health,Ridge Meadows Hospital,Maple Ridge,49.21556,-122.62917,148.0,148,https://en.wikipedia.org/wiki/Ridge_Meadows_Hospital,https://en.wikipedia.org/wiki/Ridge_Meadows_Hospital
+Fraser Health,Royal Columbian Hospital,New Westminster,49.22639,-122.89028,675.0,675,https://en.wikipedia.org/wiki/Royal_Columbian_Hospital,https://en.wikipedia.org/wiki/Royal_Columbian_Hospital
+Fraser Health,Surrey Memorial Hospital,Surrey,49.17611,-122.84167,650.0,650,https://en.wikipedia.org/wiki/Surrey_Memorial_Hospital,https://en.wikipedia.org/wiki/Surrey_Memorial_Hospital
+Interior Health,100 Mile District General Hospital,100 Mile House,51.63833,-121.29139,,,,https://en.wikipedia.org/w/index.php?title=100_Mile_District_General_Hospital&action=edit&redlink=1
+Interior Health,Arrow Lakes Hospital,Nakusp,50.23861,-117.795,6.0,6,https://en.wikipedia.org/wiki/Arrow_Lakes_Hospital,https://en.wikipedia.org/wiki/Arrow_Lakes_Hospital
+Interior Health,Ashcroft and District Hospital General Hospital,Ashcroft,54.73722,-121.27139,,,,https://en.wikipedia.org/w/index.php?title=Ashcroft_and_District_Hospital_General_Hospital&action=edit&redlink=1
+Interior Health,Boundary Hospital,Grand Forks,49.03,-118.46861,,,,https://en.wikipedia.org/w/index.php?title=Boundary_Hospital&action=edit&redlink=1
+Interior Health,Cariboo Memorial Hospital,Williams Lake,52.13806,-122.14278,,,,https://en.wikipedia.org/w/index.php?title=Cariboo_Memorial_Hospital&action=edit&redlink=1
+Interior Health,Creston Valley Hospital,Creston,49.09833,-116.50778,,,,https://en.wikipedia.org/w/index.php?title=Creston_Valley_Hospital&action=edit&redlink=1
+Interior Health,Dr. Helmcken Memorial Hospital,Clearwater,51.64639,-120.01833,,,,"https://en.wikipedia.org/wiki/Clearwater,_British_Columbia#Healthcare"
+Interior Health,East Kootenay Regional Hospital,Cranbrook,49.5125,-115.75,,,,https://en.wikipedia.org/wiki/East_Kootenay_Regional_Hospital
+Interior Health,Elk Valley Hospital,Fernie,49.51361,-115.05667,,,,https://en.wikipedia.org/w/index.php?title=Elk_Valley_Hospital&action=edit&redlink=1
+Interior Health,Golden and District General Hospital,Golden,51.29667,-116.96806,,,,https://en.wikipedia.org/w/index.php?title=Golden_and_District_General_Hospital&action=edit&redlink=1
+Interior Health,Invermere and District Hospital,Invermere,50.50667,-116.03333,,,,https://en.wikipedia.org/w/index.php?title=Invermere_and_District_Hospital&action=edit&redlink=1
+Interior Health,Kelowna General Hospital,Kelowna,49.87361,-119.49361,440.0,440 [ 1 ],https://en.wikipedia.org/wiki/Kelowna_General_Hospital,https://en.wikipedia.org/wiki/Kelowna_General_Hospital
+Interior Health,Kootenay Boundary Regional Hospital,Trail,49.10306,-117.70167,,,,https://en.wikipedia.org/w/index.php?title=Kootenay_Boundary_Regional_Hospital&action=edit&redlink=1
+Interior Health,Kootenay Lake Hospital,Nelson,49.495,-117.28472,,,,https://en.wikipedia.org/w/index.php?title=Kootenay_Lake_Hospital&action=edit&redlink=1
+Interior Health,Lillooet Hospital & Health Centre,Lillooet,50.68944,-121.93861,,,,https://en.wikipedia.org/w/index.php?title=Lillooet_Hospital_%26_Health_Centre&action=edit&redlink=1
+Interior Health,Nicola Valley Hospital and Health Centre,Merritt,50.12194,-120.77306,,,,https://en.wikipedia.org/w/index.php?title=Nicola_Valley_Hospital_and_Health_Centre&action=edit&redlink=1
+Interior Health,Penticton Regional Hospital,Penticton,49.48194,-119.57806,140.0,140,https://en.wikipedia.org/wiki/Penticton_Regional_Hospital,https://en.wikipedia.org/wiki/Penticton_Regional_Hospital
+Interior Health,Princeton General Hospital,Princeton,49.45417,-120.52667,,,,https://en.wikipedia.org/w/index.php?title=Princeton_General_Hospital&action=edit&redlink=1
+Interior Health,Queen Victoria Hospital,Revelstoke,50.9775,-118.19056,,,,"https://en.wikipedia.org/w/index.php?title=Queen_Victoria_Hospital,_Revelstoke&action=edit&redlink=1"
+Interior Health,Royal Inland Hospital,Kamloops,50.66889,-120.33222,224.0,224,https://en.wikipedia.org/wiki/Royal_Inland_Hospital,https://en.wikipedia.org/wiki/Royal_Inland_Hospital
+Interior Health,Shuswap Lake General Hospital,Salmon Arm,50.70417,-119.27389,,,,https://en.wikipedia.org/w/index.php?title=Shuswap_Lake_General_Hospital&action=edit&redlink=1
+Interior Health,South Okanagan General Hospital,Oliver,49.18333,-119.53833,,,,https://en.wikipedia.org/wiki/South_Okanagan_General_Hospital
+Interior Health,St. Bartholomew's Hospital (defunct) [ 7 ],Lytton,50.23194,-121.58111,,,,"https://en.wikipedia.org/w/index.php?title=St._Bartholomew%27s_Hospital,_Lytton&action=edit&redlink=1"
+Interior Health,Vernon Jubilee Hospital,Vernon,50.2575,-119.27222,196.0,196,https://en.wikipedia.org/wiki/Vernon_Jubilee_Hospital,https://en.wikipedia.org/wiki/Vernon_Jubilee_Hospital
+Island Health,Cowichan District Hospital,Duncan,48.78583,-123.72278,,,,https://en.wikipedia.org/w/index.php?title=Cowichan_District_Hospital&action=edit&redlink=1
+Island Health,Lady Minto Gulf Islands Hospital,Saltspring Island,48.86194,-123.50833,,,,https://en.wikipedia.org/w/index.php?title=Lady_Minto_Gulf_Islands_Hospital&action=edit&redlink=1
+Island Health,Nanaimo Regional General Hospital,Nanaimo,49.18472,-123.96944,,,,https://en.wikipedia.org/w/index.php?title=Nanaimo_Regional_General_Hospital&action=edit&redlink=1
+Island Health,North Island Hospital Campbell River & District,Campbell River,50.00917,-125.2425,,,,https://en.wikipedia.org/w/index.php?title=North_Island_Hospital_Campbell_River_%26_District&action=edit&redlink=1
+Island Health,North Island Hospital Comox Valley,Courtenay,49.71222,-124.96944,,,,https://en.wikipedia.org/w/index.php?title=North_Island_Hospital_Comox_Valley&action=edit&redlink=1
+Island Health,Port Hardy Hospital,Port Hardy,50.72083,-127.50306,,,,https://en.wikipedia.org/w/index.php?title=Port_Hardy_Hospital&action=edit&redlink=1
+Island Health,Port McNeill Hospital,Port McNeill,50.58139,-127.06694,,,,https://en.wikipedia.org/w/index.php?title=Port_McNeill_Hospital&action=edit&redlink=1
+Island Health,Royal Jubilee Hospital,Victoria,48.43306,-123.32639,500.0,500,https://en.wikipedia.org/wiki/Royal_Jubilee_Hospital,https://en.wikipedia.org/wiki/Royal_Jubilee_Hospital
+Island Health,Saanich Peninsula Hospital,Saanichton,48.59556,-123.41,,,,https://en.wikipedia.org/w/index.php?title=Saanich_Peninsula_Hospital&action=edit&redlink=1
+Island Health,Tofino General Hospital,Tofino,49.15167,-125.90861,,,,https://en.wikipedia.org/w/index.php?title=Tofino_General_Hospital&action=edit&redlink=1
+Island Health,Victoria General Hospital,Victoria,48.46722,-123.4325,374.0,374 [ 1 ],https://en.wikipedia.org/wiki/Victoria_General_Hospital,https://en.wikipedia.org/wiki/Victoria_General_Hospital
+Island Health,West Coast General Hospital,Port Alberni,49.24833,-124.78167,,,,https://en.wikipedia.org/w/index.php?title=West_Coast_General_Hospital&action=edit&redlink=1
+Northern Health,Bulkley Valley District Hospital,Smithers,54.785,-127.16306,,,,https://en.wikipedia.org/w/index.php?title=Bulkley_Valley_District_Hospital&action=edit&redlink=1
+Northern Health,Chetwynd General Hospital,Chetwynd,55.69556,-121.63667,,,,https://en.wikipedia.org/w/index.php?title=Chetwynd_General_Hospital&action=edit&redlink=1
+Northern Health,Dawson Creek and District Hospital,Dawson Creek,55.74972,-120.23611,,,,https://en.wikipedia.org/w/index.php?title=Dawson_Creek_and_District_Hospital&action=edit&redlink=1
+Northern Health,Fort Nelson General Hospital,Fort Nelson,58.80889,-122.70472,,,,https://en.wikipedia.org/w/index.php?title=Fort_Nelson_General_Hospital&action=edit&redlink=1
+Northern Health,Fort St. John General Hospital,Fort St. John,56.24639,-120.84083,,,,https://en.wikipedia.org/w/index.php?title=Fort_St._John_General_Hospital&action=edit&redlink=1
+Northern Health,G.R. Baker Memorial Hospital,Quesnel,52.9825,-122.50028,,,,https://en.wikipedia.org/w/index.php?title=G.R._Baker_Memorial_Hospital&action=edit&redlink=1
+Northern Health,Haida Gwaii Hospital - Xaayda Gwaay Ngaaysdll Naay,Daajing Giids,53.25444,-132.07194,,,,https://en.wikipedia.org/w/index.php?title=Haida_Gwaii_Hospital_-_Xaayda_Gwaay_Ngaaysdll_Naay&action=edit&redlink=1
+Northern Health,Kitimat General Hospital,Kitimat,54.05722,-128.65389,,,,https://en.wikipedia.org/w/index.php?title=Kitimat_General_Hospital&action=edit&redlink=1
+Northern Health,Ksyen Regional Hospital,Terrace,54.51,-128.59583,78.0,78,https://en.wikipedia.org/wiki/Ksyen_Regional_Hospital,https://en.wikipedia.org/wiki/Ksyen_Regional_Hospital
+Northern Health,Lakes District Hospital and Health Centre,Burns Lake,54.23556,-125.76,,,,https://en.wikipedia.org/w/index.php?title=Lakes_District_Hospital_and_Health_Centre&action=edit&redlink=1
+Northern Health,Mackenzie and District Hospital,Mackenzie,55.32139,-123.09889,,,,https://en.wikipedia.org/w/index.php?title=Mackenzie_and_District_Hospital&action=edit&redlink=1
+Northern Health,McBride and District Hospital,McBride,53.30111,-120.16167,,,,https://en.wikipedia.org/w/index.php?title=McBride_and_District_Hospital&action=edit&redlink=1
+Northern Health,Northern Haida Gwaii Hospital and Health Centre,Masset,54.01222,-132.14194,,,,https://en.wikipedia.org/w/index.php?title=Northern_Haida_Gwaii_Hospital_and_Health_Centre&action=edit&redlink=1
+Northern Health,Prince Rupert Regional Hospital,Prince Rupert,54.30444,-130.33139,,,,https://en.wikipedia.org/w/index.php?title=Prince_Rupert_Regional_Hospital&action=edit&redlink=1
+Northern Health,St. John Hospital,Vanderhoof,54.02833,-124.00917,,,,"https://en.wikipedia.org/w/index.php?title=St._John_Hospital,_Vanderhoof&action=edit&redlink=1"
+Northern Health,Stuart Lake General Hospital,Fort St. James,54.44583,-124.26111,,,,https://en.wikipedia.org/w/index.php?title=Stuart_Lake_General_Hospital&action=edit&redlink=1
+Northern Health,University Hospital of Northern British Columbia,Prince George,53.9137417,-122.7646639,,,,https://en.wikipedia.org/wiki/University_of_Northern_British_Columbia#University_Hospital_of_Northern_British_Columbia
+Northern Health,Wrinch Memorial Hospital,Hazelton,55.25944,-127.65139,,,,https://en.wikipedia.org/w/index.php?title=Wrinch_Memorial_Hospital&action=edit&redlink=1
+Other,Menno Hospital,Abbotsford,49.03806,-122.31167,,,,https://en.wikipedia.org/w/index.php?title=Menno_Hospital&action=edit&redlink=1
+Other,Mount St. Francis Hospital,Nelson,49.50833,-117.26972,,,,https://en.wikipedia.org/w/index.php?title=Mount_St._Francis_Hospital&action=edit&redlink=1
+Providence Health Care,Mount Saint Joseph Hospital,Vancouver,49.25778,-123.09528,240.0,240,https://en.wikipedia.org/wiki/Mount_Saint_Joseph_Hospital,https://en.wikipedia.org/wiki/Mount_Saint_Joseph_Hospital
+Providence Health Care,St. Joseph's Hospital (defunct) [ 14 ],Comox,49.675,-124.94139,,,,https://en.wikipedia.org/w/index.php?title=St._Joseph%27s_Hospital_(Comox)&action=edit&redlink=1
+Providence Health Care,St. Paul's Hospital,Vancouver,49.28056,-123.12806,,,,https://en.wikipedia.org/wiki/St._Paul%27s_Hospital_(Vancouver)
+Provincial Health Services Authority,B.C. Women's Hospital & Health Centre,Vancouver,49.24417,-123.12417,,,,https://en.wikipedia.org/wiki/B.C._Women%27s_Hospital_%26_Health_Centre
+Provincial Health Services Authority,BC Cancer Agency,Vancouver,49.26222,-123.1175,,,,https://en.wikipedia.org/wiki/BC_Cancer_Agency
+Provincial Health Services Authority,British Columbia's Children's Hospital,Vancouver,49.24444,-123.12556,,,,https://en.wikipedia.org/wiki/British_Columbia%27s_Children%27s_Hospital
+Provincial Health Services Authority,Riverview Hospital,Coquitlam,49.24667,-122.80556,800.0,Over 800,https://en.wikipedia.org/wiki/Riverview_Hospital_(Coquitlam),https://en.wikipedia.org/wiki/Riverview_Hospital_(Coquitlam)
+Vancouver Coastal Health,Bella Coola General Hospital,Bella Coola,52.37417,-126.7575,,,,https://en.wikipedia.org/w/index.php?title=Bella_Coola_General_Hospital&action=edit&redlink=1
+Vancouver Coastal Health,Lions Gate Hospital,North Vancouver,49.32083,-123.06833,268.0,268,https://en.wikipedia.org/wiki/Lions_Gate_Hospital,https://en.wikipedia.org/wiki/Lions_Gate_Hospital
+Vancouver Coastal Health,Richmond Hospital,Richmond,49.16889,-123.14667,200.0,200,https://en.wikipedia.org/wiki/Richmond_Hospital,https://en.wikipedia.org/wiki/Richmond_Hospital
+Vancouver Coastal Health,Sechelt | shíshálh Hospital,Sechelt,49.47611,-123.74833,,,,https://en.wikipedia.org/w/index.php?title=Sechelt_shishalh_Hospital&action=edit&redlink=1
+Vancouver Coastal Health,Squamish General Hospital,Squamish,49.69944,-123.14083,,,,https://en.wikipedia.org/w/index.php?title=Squamish_General_Hospital&action=edit&redlink=1
+Vancouver Coastal Health,UBC Hospital,UBC Vancouver,49.26417,-123.24583,332.0,332,https://en.wikipedia.org/wiki/UBC_Hospital,https://en.wikipedia.org/wiki/UBC_Hospital
+Vancouver Coastal Health,Vancouver General Hospital,Vancouver,49.26111,-123.12306,1000.0,"1,000+",https://en.wikipedia.org/wiki/Vancouver_General_Hospital,https://en.wikipedia.org/wiki/Vancouver_General_Hospital
+Vancouver Coastal Health,qathet General Hospital,Powell River,49.85111,-124.52,,,,https://en.wikipedia.org/w/index.php?title=Qathet_General_Hospital&action=edit&redlink=1
+Vancouver Coastal Health,ƛ̓uxválásu̓ilas Heiltsuk Hospital,Bella Bella,52.16139,-128.14417,,,,https://en.wikipedia.org/w/index.php?title=%C6%9B%CC%93uxv%C3%A1l%C3%A1su%CC%93ilas_Heiltsuk_Hospital&action=edit&redlink=1

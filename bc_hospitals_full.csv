@@ -1,0 +1,82 @@
+Health Authority,Facility Name,Location City,Latitude,Longitude,Beds,Beds - notes/date,Beds Source URL
+Fraser Health,Abbotsford Regional Hospital and Cancer Centre,Abbotsford,49.03917,-122.31083,300,"300 beds (Fraser Health hospital profile, 2025-01; Wikipedia infobox historically 280)",https://www.fraserhealth.ca/Service-Directory/Locations/Abbotsford/abbotsford-regional-hospital-and-cancer-centre
+Fraser Health,Burnaby General Hospital,Burnaby,49.24944,-123.015,297,297 beds (BCHumanResource/Fraser Health stats c.2024; Wikipedia rounds 300),https://www.fraserhealth.ca/Service-Directory/Locations/Burnaby/burnaby-hospital
+Fraser Health,Chilliwack General Hospital,Chilliwack,49.16639,-121.96278,169,169 beds (Fraser Health 2024-2025),https://www.fraserhealth.ca/Service-Directory/Locations/Chilliwack/chilliwack-general-hospital
+Fraser Health,Delta Hospital,Delta,49.08556,-123.06111,64,"64 inpatient beds (acute) (Fraser Health site, 2024; Wikipedia previously 58 acute)",https://www.fraserhealth.ca/Service-Directory/Locations/Delta/delta-hospital
+Fraser Health,Eagle Ridge Hospital,Port Moody,49.285,-122.82333,106,106 beds (ERH Foundation 2023),https://www.erhf.ca/
+Fraser Health,Fraser Canyon Hospital,Hope,49.37611,-121.42333,10,"10 beds (Fraser Health site, 2024)",https://www.fraserhealth.ca/Service-Directory/Locations/Hope/fraser-canyon-hospital
+Fraser Health,Jim Pattison Outpatient Care and Surgery Centre,Surrey,49.17944,-122.83306,,Outpatient facility (no inpatient beds),https://www.fraserhealth.ca/Service-Directory/Locations/Surrey/jim-pattison-outpatient-care-and-surgery-centre
+Fraser Health,Langley Memorial Hospital,Langley,49.09361,-122.61194,188,"188 beds (LMH Foundation/Fraser Health, 2024)",https://www.lmhfoundation.com/
+Fraser Health,Mission Memorial Hospital,Mission,49.135,-122.33083,25,"25 acute beds (Fraser Health site, 2024)",https://www.fraserhealth.ca/Service-Directory/Locations/Mission/mission-memorial-hospital
+Fraser Health,Peace Arch Hospital,White Rock,49.02972,-122.79222,171,"171 beds (Fraser Health, c.2022; Wikipedia older value 146)",https://www.fraserhealth.ca/Service-Directory/Locations/White-Rock/peace-arch-hospital
+Fraser Health,Ridge Meadows Hospital,Maple Ridge,49.21556,-122.62917,125,"125 beds (RMH Foundation, 2023)",https://rmhfoundation.com/
+Fraser Health,Royal Columbian Hospital,New Westminster,49.22639,-122.89028,490,~490+ beds (phase 2 expansion underway; RCH Redevelopment 2024-2025),https://www.fraserhealth.ca/Service-Directory/Locations/New-Westminster/royal-columbian-hospital
+Fraser Health,Surrey Memorial Hospital,Surrey,49.17611,-122.84167,650,"~650 beds (Fraser Health/Vancouver Sun reports, 2023-2025)",https://www.fraserhealth.ca/Service-Directory/Locations/Surrey/surrey-memorial-hospital
+Interior Health,100 Mile District General Hospital,100 Mile House,51.63833,-121.29139,16,"16 beds (Interior Health facility profile, 2024)",https://www.interiorhealth.ca/find-us/facility/100-mile-district-general-hospital
+Interior Health,Arrow Lakes Hospital,Nakusp,50.23861,-117.795,6,"6 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/arrow-lakes-hospital
+Interior Health,Ashcroft and District General Hospital,Ashcroft,,,,Small rural site; beds not listed on IH page,https://www.interiorhealth.ca/find-us/facility/ashcroft-hospital-and-community-health-centre
+Interior Health,Boundary Hospital,Grand Forks,49.03,-118.46861,,beds not stated on public page,https://www.interiorhealth.ca/find-us/facility/boundary-hospital
+Interior Health,Cariboo Memorial Hospital,Williams Lake,52.13806,-122.14278,28,"28 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/cariboo-memorial-hospital
+Interior Health,Creston Valley Hospital,Creston,49.09833,-116.50778,20,"20 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/creston-valley-hospital-health-centre
+Interior Health,Dr. Helmcken Memorial Hospital,Clearwater,51.64639,-120.01833,6,"6 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/dr-helmcken-memorial-hospital
+Interior Health,East Kootenay Regional Hospital,Cranbrook,49.5125,-115.75,89,"89 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/east-kootenay-regional-hospital
+Interior Health,Elk Valley Hospital,Fernie,49.51361,-115.05667,20,"20 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/elk-valley-hospital
+Interior Health,Golden and District General Hospital,Golden,51.29667,-116.96806,8,"8 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/golden-district-hospital
+Interior Health,Invermere and District Hospital,Invermere,50.50667,-116.03333,8,"8 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/invermere-district-hospital
+Interior Health,Kelowna General Hospital,Kelowna,49.87361,-119.49361,440,~440 beds (Wikipedia infobox; IH site not explicit),https://en.wikipedia.org/wiki/Kelowna_General_Hospital
+Interior Health,Kootenay Boundary Regional Hospital,Trail,49.10306,-117.70167,80,"80 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/kootenay-boundary-regional-hospital
+Interior Health,Kootenay Lake Hospital,Nelson,49.495,-117.28472,30,"30 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/kootenay-lake-hospital
+Interior Health,Lillooet Hospital & Health Centre,Lillooet,50.68944,-121.93861,6,"6 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/lillooet-hospital-health-centre
+Interior Health,Nicola Valley Hospital and Health Centre,Merritt,50.12194,-120.77306,8,"8 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/nicola-valley-hospital-and-health-centre
+Interior Health,Penticton Regional Hospital,Penticton,49.48194,-119.57806,140,"140 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/penticton-regional-hospital
+Interior Health,Princeton General Hospital,Princeton,49.45417,-120.52667,6,"6 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/princeton-general-hospital
+Interior Health,Queen Victoria Hospital,Revelstoke,50.9775,-118.19056,10,"10 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/queen-victoria-hospital
+Interior Health,Royal Inland Hospital,Kamloops,50.66889,-120.33222,254,"254 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/royal-inland-hospital
+Interior Health,Shuswap Lake General Hospital,Salmon Arm,50.70417,-119.27389,43,"43 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/shuswap-lake-general-hospital
+Interior Health,South Okanagan General Hospital,Oliver,49.18333,-119.53833,18,"18 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/south-okanagan-general-hospital
+Interior Health,Vernon Jubilee Hospital,Vernon,50.2575,-119.27222,196,"196 beds (IH site, 2024)",https://www.interiorhealth.ca/find-us/facility/vernon-jubilee-hospital
+Island Health,Cowichan District Hospital,Duncan,,,148,"148 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/cowichan-district-hospital
+Island Health,Lady Minto Gulf Islands Hospital,Salt Spring Island,,,20,"20 beds (Island Health site, 2024)",https://ladymintofoundation.com/
+Island Health,Nanaimo Regional General Hospital,Nanaimo,,,345,"345 beds (NRGH facts, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/nanaimo-regional-general-hospital
+Island Health,North Island Hospital Campbell River & District,Campbell River,,,95,"95 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/north-island-hospital-campbell-river-district
+Island Health,North Island Hospital Comox Valley,Courtenay,,,153,"153 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/north-island-hospital-comox-valley
+Island Health,Port Hardy Hospital,Port Hardy,,,10,"10 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/port-hardy-hospital
+Island Health,Port McNeill Hospital,Port McNeill,,,12,"12 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/port-mcneill-hospital
+Island Health,Royal Jubilee Hospital,Victoria,,,500,~500 beds (Island Health site; Wikipedia infobox),https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/royal-jubilee-hospital
+Island Health,Saanich Peninsula Hospital,Saanichton,,,48,"48 acute beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/saanich-peninsula-hospital
+Island Health,Tofino General Hospital,Tofino,,,10,"10 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/tofino-general-hospital
+Island Health,Victoria General Hospital,Victoria,,,374,374 beds (Wikipedia infobox),https://en.wikipedia.org/wiki/Victoria_General_Hospital_(British_Columbia)
+Island Health,West Coast General Hospital,Port Alberni,,,52,"52 beds (Island Health site, 2024)",https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/west-coast-general-hospital
+Northern Health,Bulkley Valley District Hospital,Smithers,54.78083,-127.16167,19,"19 beds (Northern Health facility page, 2024)",https://www.northernhealth.ca/hospitals-health-centres/bulkley-valley-district-hospital
+Northern Health,Chetwynd General Hospital,Chetwynd,55.69417,-121.63361,7,"7 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/chetwynd-hospital-health-centre
+Northern Health,Dawson Creek and District Hospital,Dawson Creek,55.75944,-120.22333,24,"24 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/dawson-creek-district-hospital
+Northern Health,Fort Nelson General Hospital,Fort Nelson,58.80222,-122.69583,24,"24 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/fort-nelson-general-hospital
+Northern Health,Fort St. John General Hospital,Fort St. John,56.24694,-120.84583,55,"55 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/fort-st-john-hospital
+Northern Health,G.R. Baker Memorial Hospital,Quesnel,52.98111,-122.49333,35,"35 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/gr-baker-memorial-hospital
+Northern Health,Haida Gwaii Hospital - Xaayda Gwaay Ngaaysdll Naay,Daajing Giids,53.25472,-132.08389,8,"8 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/haida-gwaii-hospital-health-centre
+Northern Health,Kitimat General Hospital,Kitimat,54.05222,-128.65444,19,"19 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/kitimat-general-hospital
+Northern Health,Ksyen Regional Hospital (Terrace),Terrace,54.51,-128.59583,44,"44 beds (Mills/Ksyen site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/ksyen-regional-hospital
+Northern Health,Lakes District Hospital and Health Centre,Burns Lake,54.23556,-125.76,16,"16 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/lakes-district-hospital-health-centre
+Northern Health,Mackenzie and District Hospital,Mackenzie,55.32139,-123.09889,12,"12 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/mackenzie-hospital-health-centre
+Northern Health,McBride and District Hospital,McBride,53.30111,-120.16167,8,"8 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/mcbride-hospital-health-centre
+Northern Health,Northern Haida Gwaii Hospital and Health Centre,Masset,54.01222,-132.14194,8,"8 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/northern-haida-gwaii-hospital-health-centre
+Northern Health,Prince Rupert Regional Hospital,Prince Rupert,54.30444,-130.33139,30,"30 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/prince-rupert-regional-hospital
+Northern Health,St. John Hospital,Vanderhoof,54.02833,-124.00917,25,"25 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/st-john-hospital
+Northern Health,Stuart Lake General Hospital,Fort St. James,54.44583,-124.26111,12,"12 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/stuart-lake-hospital-health-centre
+Northern Health,University Hospital of Northern British Columbia,Prince George,53.9137417,-122.7646639,329,"329 beds (UHNBC site/fact sheet, 2024)",https://www.northernhealth.ca/hospitals-health-centres/university-hospital-northern-british-columbia
+Northern Health,Wrinch Memorial Hospital,Hazelton,55.25944,-127.65139,10,"10 beds (NH site, 2024)",https://www.northernhealth.ca/hospitals-health-centres/wrinch-memorial-hospital
+PHSA,BC Cancer – Vancouver Centre,Vancouver,49.26222,-123.1175,,Cancer centre (primarily outpatient/ambulatory),https://www.bccancer.bc.ca/our-locations/centres/vancouver
+PHSA,BC Children's Hospital,Vancouver,49.24444,-123.12556,211,"211 beds (PHSA/BCCH page, 2024)",https://www.bcchildrens.ca/
+PHSA,BC Women's Hospital & Health Centre,Vancouver,49.24417,-123.12417,255,"255 beds (PHSA/BCW page, 2024)",https://www.bcwomens.ca/
+PHSA,Riverview Hospital (historical),Coquitlam,49.24667,-122.80556,historic,Large historical psychiatric campus; inpatient beds no longer active as of 2012; listed on Wikipedia for completeness,https://en.wikipedia.org/wiki/Riverview_Hospital_(Coquitlam)
+Providence Health Care,Mount Saint Joseph Hospital,Vancouver,49.25778,-123.09528,240,~240 beds (Providence site),https://www.providencehealthcare.org/locations/mount-saint-joseph-hospital
+Providence Health Care,St. Paul’s Hospital (Burrard),Vancouver,49.28056,-123.12806,400,~400 beds (Providence site; replacement hospital under construction),https://www.providencehealthcare.org/locations/st-pauls-hospital
+Vancouver Coastal Health,Bella Coola General Hospital,Bella Coola,,,15,"15 beds (VCH site, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,Lions Gate Hospital,North Vancouver,,,317,"317 beds (VCH engagement materials, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,Richmond Hospital,Richmond,,,350,"~350 beds (VCH site, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,Sechelt shíshálh Hospital,Sechelt,,,54,"54 beds (VCH site, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,Squamish General Hospital,Squamish,,,21,"21 beds (VCH site, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,UBC Hospital,Vancouver,49.26417,-123.24583,332,"332 beds (VCH site, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,Vancouver General Hospital,Vancouver,49.26111,-123.12306,1000+,1000+ beds (VCH fact sheet/Wikipedia),https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,qathet General Hospital,Powell River,49.85111,-124.52,75,"75 beds (VCH site / facility profile, 2024)",https://www.vch.ca/en/hospital-care
+Vancouver Coastal Health,ƛ̓uxválásu̓ilas Heiltsuk Hospital (Bella Bella),Bella Bella,,,16,"16 beds (Heiltsuk Hospital info, 2024)",https://www.vch.ca/en/hospital-care
